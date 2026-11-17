@@ -4,3 +4,13 @@ __pycache__/
 .ipynb_checkpoints/
 .venv/
 *.pyc
+
+# Superseded local planning notes kept outside the public portfolio commit
+BIGQUERY_PREPROCESSING_SUMMARY.md
+CLOUD_INGESTION_PLAN.md
+DATA_DOWNLOAD_SUMMARY.md
+DATA_INGESTION_PLAN.md
+GCP_WORKFLOW.md
+IMPLEMENTATION_PHASE1.md
+PROJECT_PLAN.md
+TRANSFORMATION_PLAN.md
